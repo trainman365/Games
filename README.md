@@ -1,2 +1,2 @@
 # Games
-This is my Games Reposity
+This is my Games Reposity in Python.
